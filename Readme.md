@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="src/DiffRhythm_logo.jpg" width="400"/>
+    
 <p>
 
 <p align="center">
